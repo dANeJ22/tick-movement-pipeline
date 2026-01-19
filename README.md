@@ -1,6 +1,4 @@
-# tick-movement-pipeline
-
-A Python workflow for extracting **tick movement trajectories** from recorded videos using **idtracker.ai (PyTorch)** and generating summary metrics + graphs (distance, speed, etc.).
+# TICK MOVEMENT PIPELINE
 
 ---
 Summary: 
