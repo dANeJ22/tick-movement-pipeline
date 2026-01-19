@@ -1,7 +1,7 @@
 # TICK MOVEMENT PIPELINE
 
 ---
-Summary: 
+###Summary: 
 I built an end-to-end workflow to quantify tick movement behavior from standardized arena recordings. Videos are processed using idtracker.ai to extract coordinate trajectories, which are then scaled using a reference square and summarized into movement metrics such as total distance and average speed. The pipeline generates visual outputs to compare behavior across species and sex. This project combines field/lab protocol design with reproducible data processing and visualization in Python.
 
 
